@@ -1,0 +1,23 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    
+}
+
+.corpoDoTexto {
+    text-align: justify;
+    color: darkgrey;
+    font-size: 20px;
+}
+
+.corpoDoTexto2{
+    text-align: justify;
+    color: darkred;
+    font-size: 20px;
+}
+
+body {
+    background-color:rgb(234, 234, 175);
+}
